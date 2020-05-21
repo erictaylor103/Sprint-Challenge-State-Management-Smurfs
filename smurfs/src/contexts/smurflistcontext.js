@@ -1,3 +1,3 @@
 import { createContext } from "react";
-const smurflist = createContext();
-export default smurflist;
+const smurfList = createContext();
+export default smurfList;
