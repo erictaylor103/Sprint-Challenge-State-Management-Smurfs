@@ -4,7 +4,7 @@ import axios from "axios";
 import smurfList from "../contexts/smurflistcontext";
 import SmurfVillage from "./SmurfVillage";
 
-
+//adding smurfs works
 function App() {
   const [smurfs, setSmurfs]           = useState([])
   const [smurfName, setSmurfName]     = useState('');
